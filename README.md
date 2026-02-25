@@ -6,17 +6,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=MSCS+With+AI+Specialization;Full-Stack+AI+Developer;Western+University+Alumnus;Always+learning+new+things&center=true&width=500&height=20"></a>
 </p>
 
-<img src="https://wsrv.nl/?url=github.com/Viraj-Mavani.png&w=300&h=300&fit=cover&mask=circle" alt="Viraj Mavani" width="250" height="250" />
+<!-- <img src="https://wsrv.nl/?url=github.com/Viraj-Mavani.png&w=300&h=300&fit=cover&mask=circle" alt="Viraj Mavani" width="250" height="250" />
 <br>
-<br>
+<br> --> 
 
 <p align="center">
+  <a title="Full-stack Development"><img src="https://img.shields.io/badge/-Full--stack%20Development-1e1e1e?style=for-the-badge&logo=react&logoColor=61dafb" /></a>
   <a title="Data Science"><img src="https://img.shields.io/badge/-Data%20Science-1e1e1e?style=for-the-badge&logo=python&logoColor=00ffcc" /></a>
   <a title="Machine Learning"><img src="https://img.shields.io/badge/-Machine%20Learning-1e1e1e?style=for-the-badge&logo=tensorflow&logoColor=ff6f00" /></a>
+  <br>
   <a title="Deep Learning"><img src="https://img.shields.io/badge/-Deep%20Learning-1e1e1e?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" /></a>
   <a title="Data Visualization"><img src="https://img.shields.io/badge/-Data%20Visualization-1e1e1e?style=for-the-badge&logo=plotly&logoColor=3f4f75" /></a>
-  <br>
-  <a title="Web Development"><img src="https://img.shields.io/badge/-Web%20Development-1e1e1e?style=for-the-badge&logo=react&logoColor=61dafb" /></a>
 </p>
 
 </div>
