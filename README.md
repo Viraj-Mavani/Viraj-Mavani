@@ -19,8 +19,11 @@
   <a title="Data Visualization"><img src="https://img.shields.io/badge/-Data%20Visualization-1e1e1e?style=for-the-badge&logo=plotly&logoColor=3f4f75" /></a>
 </p>
 
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-Mavani&hide_border=true&theme=dark&layout=compact&count_private=true" alt="Top Langs" />
+</a>
 
+</div>
 
 ## 📞 Contact & Links
 
